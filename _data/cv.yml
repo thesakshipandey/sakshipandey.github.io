@@ -1,0 +1,121 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sakshi Pandey
+    - name: Date of Birth
+      value: 27 December 2001
+    - name: Contact
+      value: sakshipandey@cse.iitb.ac.in 
+    - name: Languages
+      value: English, Hindi, Marathi, Gujarati
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. by Research in Computer Science
+      institution: Indian Institute of Technology Bombay, Mumbai, India
+      year: 2024 – Present
+      description:
+        - CGPI 9.29 / 10.00 after Semester 1:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+        - Coursework highlights: Foundations of Machine Learning, Foundations of Intelligent & Learning Agents
+    - title: B.E. in Computer Engineering
+      institution: University of Mumbai, Mumbai, India
+      year: 2019 – 2023
+      description:
+        - GPA 8.86 / 10.00:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+        - Final-year thesis on a decentralized storage system using blockchain (published at IEEE ASIACON ’23)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Cyber-security Intern
+      institution: Bombay Stock Exchange Ltd., Mumbai, India
+      year: Sept 2021 – Oct 2021
+      description:
+        - Performed risk & vulnerability analysis of critical exchange systems:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
+        - Used IBM QRadar + Watson for real-time threat detection & response
+        - Implemented honey-comb trapping techniques to harden security posture
+
+- title: Selected Research & Course Projects
+  type: time_table
+  contents:
+    - title: Reinforcement Learning for Side-Channel CNN Design
+      institution: IIT Bombay — R&D under Prof. Shivaram K. & Sayandeep S.
+      year: 2024 –
+      description:
+        - Built a Q-learning agent that discovers lightweight 1D-CNNs for power-trace attacks
+        - Engineered rewards that combine multi-trace guessing entropy and model size
+        - Ran ≈ 2 700 architecture trials; matched or beat SOTA key-recovery accuracy:contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}
+    - title: Multilingual Red-Teaming of Large Language Models
+      institution: CFILT Lab
+      year: 2024
+      description:
+        - Exposed safety-filter gaps in Indic languages (Telugu, Bengali, Marathi)
+        - Crafted custom prompt templates to bypass filters using Mixtral LLM:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}
+    - title: Signboard OCR & Transliteration
+      institution: Course project — Foundations of Machine Learning
+      year: 2023
+      description:
+        - Faster R-CNN for text detection; EasyOCR + GRU ED for transliteration
+        - End-to-end pipeline for Hindi → English signboard translation:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}
+    - title: Hybrid Movie Recommendation Engine
+      institution: Software Lab
+      year: 2022
+      description:
+        - Combined SVD-based collaborative filtering with content similarity & review sentiment:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}
+
+- title: Technical Skills
+  type: list
+  contents:
+    - Languages: Python, C/C++, Java, Solidity, Bash
+    - Frameworks Tools: PyTorch, TensorFlow, Flask, Bootstrap, Numpy, Pandas
+    - Concepts: Reinforcement Learning, Neural Networks, Attention, Side-Channel Analysis, Cyber-Security
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Reliance Foundation Post-Graduate Scholar (top 100 nationwide):contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}
+    - year: 2023
+      items:
+        - IEEE ASIACON ’23 paper on blockchain-based decentralized storage
+        - 1st place in both Kaggle competitions for CS725 (FML) course:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}
+    - year: 2022
+      items:
+        - First Google Developer Student Club Lead of institute (Google DSC):contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Trustworthy & Aligned AI
+      items:
+        - Reward-modeling and preference learning for LLM alignment
+        - Adversarial robustness & red-teaming
+    - title: Machine Learning for Security
+      items:
+        - Reinforcement-Learning-based SCA
+        - Prompt-level jailbreak detection & mitigation
+    - title: Recommender Systems
+      items:
+        - Hybrid collaborative-/content-based methods
+        - Conversational personalization
+
+- title: Open-Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/thesakshipandey/JailbreakinLLMs">Jailbreak in LLMs</a>
+      year: 2024 – now
+      description: Prompt-collection & evaluation framework for multilingual LLM jailbreak research.
+    - title: <a href="https://github.com/thesakshipandey/IITB_CS626">RL for SCA (IITB CS626)</a>
+      year: 2024
+      description: Code & experiments for RL-driven CNN architecture search in side-channel attacks.
+    - title: <a href="https://github.com/thesakshipandey/SpaceXclone">SpaceX Clone</a>
+      year: 2022
+      description: Front-end replica of the SpaceX site to practice responsive design.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Basketball, Badminton, Chess, Gaming, Fantasy Novels, World Cuisines

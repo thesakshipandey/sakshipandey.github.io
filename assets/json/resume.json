@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Sakshi Pandey",
+    "label": "M.S. Research Scholar",
+    "image": "",
+    "email": "sakshipandey@cse.iitb.ac.in",
+    "url": "https://sakshipandey.github.io",
+    "summary": "Master’s student at IIT Bombay exploring reinforcement learning, LLM alignment, and AI security. I build trustworthy, human-centred ML systems.",
+    "location": {
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thesakshipandey",
+        "url": "https://linkedin.com/in/thesakshipandey"
+      },
+      {
+        "network": "GitHub",
+        "username": "thesakshipandey",
+        "url": "https://github.com/thesakshipandey"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Bombay",
+      "area": "Computer Science & Engineering",
+      "studyType": "M.S. by Research",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "score": "CGPI 9.29 / 10.00"
+    },
+    {
+      "institution": "University of Mumbai",
+      "area": "Computer Engineering",
+      "studyType": "B.E.",
+      "startDate": "2019-08-01",
+      "endDate": "2023-06-01",
+      "score": "GPA 8.86 / 10.00"
+    }
+  ],
+
+  "work": [
+    {
+      "name": "Bombay Stock Exchange Ltd.",
+      "position": "Cyber-security Intern",
+      "startDate": "2021-09-01",
+      "endDate": "2021-10-31",
+      "summary": "Performed risk & vulnerability analysis of critical exchange systems; deployed IBM QRadar + Watson for real-time threat detection."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "RL-Driven CNN Design for Side-Channel Attacks",
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-30",
+      "highlights": [
+        "Q-learning agent explored ≈2700 architectures.",
+        "Reward combined guessing-entropy, accuracy, and model size."
+      ]
+    },
+    {
+      "name": "Multilingual Red-Teaming of LLMs",
+      "startDate": "2024-02-01",
+      "endDate": "2025-03-30",
+      "highlights": [
+        "Bypassed safety filters in Telugu, Bengali, and Marathi with custom prompts."
+      ],
+      "url": "https://github.com/thesakshipandey/IITB_CS626"
+    },
+    {
+      "name": "Signboard OCR & Transliteration",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-13",
+      "highlights": [
+        "Faster R-CNN for detection; EasyOCR + GRU ED for transliteration."
+      ],
+      "url": "https://github.com/thesakshipandey/CS725_FML"
+    },
+    {
+      "name": "Decentralized Storage via Blockchain",
+      "startDate": "2022-01-01",
+      "endDate": "2023-05-01",
+      "highlights": [
+        "Smart-contract-based storage; published at IEEE ASIACON ’23."
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C", "C++", "Java", "Solidity", "Bash"]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "keywords": ["PyTorch", "TensorFlow", "Flask", "Bootstrap", "NumPy", "Pandas"]
+    },
+    {
+      "name": "Concepts",
+      "keywords": [
+        "Reinforcement Learning",
+        "Neural Networks",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "\\",
+      "keywords": [
+        "Side-Channel Analysis",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Reliance Foundation Post-Graduate Scholar (Top 100 India)",
+      "date": "2025-02-01",
+      "awarder": "Reliance Foundation"
+    },
+    {
+      "title": "Best Paper – IEEE ASIACON ’23 (Blockchain Storage)",
+      "date": "2023-05-01",
+      "awarder": "IEEE ASIACON 2023"
+    },
+    {
+      "title": "First Place – Kaggle Competitions (CS725 FML)",
+      "date": "2024-11-01",
+      "awarder": "IIT Bombay"
+    }
+  ],
+
+  "languages": [
+    { "language": "English", "fluency": "Professional" },
+    { "language": "Hindi", "fluency": "Native" },
+    { "language": "Marathi", "fluency": "Conversational" },
+    { "language": "Gujarati", "fluency": "Basic" }
+  ],
+
+  "interests": [
+    { "name": "Gaming & Puzzles" },
+    { "name": "Fantasy Novels" },
+    { "name": "Exploring World Cuisines" }
+  ]
+}
